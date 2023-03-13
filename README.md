@@ -1,6 +1,14 @@
 # xmonad
 A dynamically tiling X11 window manager that is written and configured in Haskell.
 
+## Table of contents
+1. [Screenshots](#Screenshots)
+2. [Read more about](#Read-more-about)
+3. [Key bindings](#key-bindings)
+
+
+### Screenshots:
+
 ![Screenshot 1](/../screenshots/images/screen-01.jpg?raw=true "Screenshot 1")
 
 ![Screenshot 2](/../screenshots/images/screen-02.jpg?raw=true "Screenshot 2")
@@ -8,11 +16,6 @@ A dynamically tiling X11 window manager that is written and configured in Haskel
 ![Screenshot 3](/../screenshots/images/screen-03.jpg?raw=true "Screenshot 3")
 
 ![Screenshot 4](/../screenshots/images/screen-04.jpg?raw=true "Screenshot 4")
-
-
-## Table of contents
-1. [Read more about](#Read-more-about)
-2. [Key bindings](#key-bindings)
 
 
 ### Read more about:
