@@ -43,7 +43,7 @@ A dynamically tiling X11 window manager that is written and configured in Haskel
 | <kbd>mod</kbd> - <kbd>shift</kbd>   - <kbd>space</kbd>  | Reset the layouts on the current workspace to default                         |
 | <kbd>mod</kbd> - <kbd>tab</kbd>                         | Move focus to the next window                                                 |
 | <kbd>mod</kbd> - <kbd>shift</kbd>   - <kbd>tab</kbd>    | Move focus to the previous window                                             |
-| <kbd>mod</kbd> - <kbd>shift</kbd> - <kbd>j</kbd>                           | Move focus to the next window                              |
-| <kbd>mod</kbd> - <kbd>shift</kbd> - <kbd><Down></kbd>                      | Move focus to the next window                              |
-| <kbd>mod</kbd> - <kbd>shift</kbd> - <kbd>k</kbd>                           | Move focus to the previous window                          |
-| <kbd>mod</kbd> - <kbd>shift</kbd> - <kbd><Up></kbd>                        | Move focus to the previous window                          |
+| <kbd>mod</kbd> - <kbd>shift</kbd> - <kbd>j</kbd>        | Move focus to the next window                                                 |
+| <kbd>mod</kbd> - <kbd>shift</kbd> - <kbd>\<Down\></kbd> | Move focus to the next window                                                 |
+| <kbd>mod</kbd> - <kbd>shift</kbd> - <kbd>k</kbd>        | Move focus to the previous window                                             |
+| <kbd>mod</kbd> - <kbd>shift</kbd> - <kbd>\<Up\></kbd>   | Move focus to the previous window                                             |
