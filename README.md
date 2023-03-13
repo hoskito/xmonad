@@ -2,20 +2,9 @@
 A dynamically tiling X11 window manager that is written and configured in Haskell.
 
 ## Table of contents
-1. [Screenshots](#Screenshots)
+1. [Key bindings](#key-bindings)
 2. [Read more about](#Read-more-about)
-3. [Key bindings](#key-bindings)
-
-
-## Screenshots:
-
-![Screenshot 1](/../screenshots/images/screen-01.jpg?raw=true "Screenshot 1")
-
-![Screenshot 2](/../screenshots/images/screen-02.jpg?raw=true "Screenshot 2")
-
-![Screenshot 3](/../screenshots/images/screen-03.jpg?raw=true "Screenshot 3")
-
-![Screenshot 4](/../screenshots/images/screen-04.jpg?raw=true "Screenshot 4")
+3. [Screenshots](#Screenshots)
 
 
 ## Read more about:
@@ -35,7 +24,6 @@ A dynamically tiling X11 window manager that is written and configured in Haskel
 | <kbd>mod</kbd> - <kbd>shift</kbd> - <kbd>backspace</kbd>     | Close all windows on workspace (prompt)                                       |
 | <kbd>mod</kbd> - <kbd>q</kbd>                                | Restart xmonad (prompt)                                                       |
 | <kbd>mod</kbd> - <kbd>shift</kbd> - <kbd>q</kbd>             | Quit xmonad (prompt)                                                          |
-
 
 ### Movement key bindings
 
@@ -60,6 +48,15 @@ A dynamically tiling X11 window manager that is written and configured in Haskel
 | <kbd>mod</kbd> - <kbd>shift</kbd> - <kbd>\<Page_Up\></kbd>   | Move window to next WS                                                        |
 | <kbd>mod</kbd> - <kbd>shift</kbd> - <kbd>\<Page_Down\></kbd> | Move window to prev WS                                                        |
 
+### Window resizing
+
+| Key binding                                                  | Action                                                                        |
+|--------------------------------------------------------------|-------------------------------------------------------------------------------|
+| <kbd>mod</kbd> - <kbd>[</kbd>                                | Shrink window                                                                 |
+| <kbd>mod</kbd> - <kbd>]</kbd>                                | Expand window                                                                 |
+| <kbd>mod</kbd> - <kbd>shift</kbd> - <kbd>[</kbd>             | Shrink window vertically                                                      |
+| <kbd>mod</kbd> - <kbd>shift</kbd> - <kbd>]</kbd>             | Expand window vertically                                                      |
+
 ### Floating windows
 
 | Key binding                                                  | Action                                                                        |
@@ -67,3 +64,23 @@ A dynamically tiling X11 window manager that is written and configured in Haskel
 | <kbd>mod</kbd> - <kbd>shift</kbd> - <kbd>f</kbd>             | Toggle float layout                                                           |
 | <kbd>mod</kbd> - <kbd>t</kbd>                                | Sink a floating window                                                        |
 | <kbd>mod</kbd> - <kbd>shift</kbd> - <kbd>t</kbd>             | Sink all floated windows                                                      |
+
+### Window spacing (gaps)
+
+| Key binding                                                  | Action                                                                        |
+|--------------------------------------------------------------|-------------------------------------------------------------------------------|
+| <kbd>ctrl</kbd> - <kbd>mod-alt</kbd> - <kbd>j</kbd>           | Decrease window spacing                                                       |
+| <kbd>ctrl</kbd> - <kbd>mod-alt</kbd> - <kbd>k</kbd>           | Increase window spacing                                                       |
+| <kbd>ctrl</kbd> - <kbd>mod-alt</kbd> - <kbd>h</kbd>           | Decrease screen spacing                                                       |
+| <kbd>ctrl</kbd> - <kbd>mod-alt</kbd> - <kbd>l</kbd>           | Increase screen spacing                                                       |
+
+
+## Screenshots:
+
+![Screenshot 1](/../screenshots/images/screen-01.jpg?raw=true "Screenshot 1")
+
+![Screenshot 2](/../screenshots/images/screen-02.jpg?raw=true "Screenshot 2")
+
+![Screenshot 3](/../screenshots/images/screen-03.jpg?raw=true "Screenshot 3")
+
+![Screenshot 4](/../screenshots/images/screen-04.jpg?raw=true "Screenshot 4")
