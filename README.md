@@ -9,12 +9,26 @@ A dynamically tiling X11 window manager that is written and configured in Haskel
 
 ![Screenshot 4](/../screenshots/screenshots/screen-04.jpg?raw=true "Screenshot 4")
 
+
 ## Table of contents
 1. [Read more about](#Read-more-about)
 2. [Key bindings](#key-bindings)
 
+
 ### Read more about:
 - [xmonad tiling window manager](https://xmonad.org/)
-- [xmonbar](https://hackage.haskell.org/package/xmobar)
+- [xmobar](https://hackage.haskell.org/package/xmobar)
+
 
 ### Key bindings:
+
+## Action key bindings
+
+| Key binding                                             | Action                                                                        |
+|---------------------------------------------------------|-------------------------------------------------------------------------------|
+| <kbd>mod</kbd> - <kbd>return</kbd>                      | Launch terminal                                                               |
+| <kbd>mod</kbd> - <kbd>p</kbd>                           | Show dmenu                                                                    |
+| <kbd>mod</kbd> - <kbd>backspace</kbd>                   | Close focused window                                                          |
+| <kbd>mod</kbd> - <kbd>shift</kbd> - <kbd>backspace</kbd>| Close all windows on workspace(prompt)                                        |
+| <kbd>mod</kbd> - <kbd>q</kbd>                           | Restart xmonad                                                                |
+| <kbd>mod</kbd> - <kbd>shift</kbd> - <kbd>q</kbd>        | Quit xmonad                                                                   |
