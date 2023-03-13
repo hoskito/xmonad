@@ -1,18 +1,19 @@
 # xmonad
 A dynamically tiling X11 window manager that is written and configured in Haskell.
 
+
 ## Table of contents
 1. [Key bindings](#key-bindings)
-2. [Read more about](#Read-more-about)
+2. [Links](#Links)
 3. [Screenshots](#Screenshots)
 
 
-## Read more about:
+## Links
 - [xmonad tiling window manager](https://xmonad.org/)
 - [xmobar](https://hackage.haskell.org/package/xmobar)
 
 
-## Key bindings:
+## Key bindings
 
 ### Action key bindings
 
@@ -75,7 +76,7 @@ A dynamically tiling X11 window manager that is written and configured in Haskel
 | <kbd>ctrl</kbd> - <kbd>mod-alt</kbd> - <kbd>l</kbd>           | Increase screen spacing                                                       |
 
 
-## Screenshots:
+## Screenshots
 
 ![Screenshot 1](/../screenshots/images/screen-01.jpg?raw=true "Screenshot 1")
 
