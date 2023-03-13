@@ -7,7 +7,7 @@ A dynamically tiling X11 window manager that is written and configured in Haskel
 3. [Key bindings](#key-bindings)
 
 
-### Screenshots:
+## Screenshots:
 
 ![Screenshot 1](/../screenshots/images/screen-01.jpg?raw=true "Screenshot 1")
 
@@ -18,14 +18,14 @@ A dynamically tiling X11 window manager that is written and configured in Haskel
 ![Screenshot 4](/../screenshots/images/screen-04.jpg?raw=true "Screenshot 4")
 
 
-### Read more about:
+## Read more about:
 - [xmonad tiling window manager](https://xmonad.org/)
 - [xmobar](https://hackage.haskell.org/package/xmobar)
 
 
-### Key bindings:
+## Key bindings:
 
-## Action key bindings
+### Action key bindings
 
 | Key binding                                             | Action                                                                        |
 |---------------------------------------------------------|-------------------------------------------------------------------------------|
