@@ -141,7 +141,7 @@ myFocusedBorderColor    = active
 myBorderWidth           = 0
 myBorderSpace           = 4
 
-myFocusFollowsMouse     = False
+myFocusFollowsMouse     = True
 myClickJustFocuses      = False
 
 myFont = "xft:SauceCodePro Nerd Font Mono:regular:size=9:antialias=true:hinting=true"
